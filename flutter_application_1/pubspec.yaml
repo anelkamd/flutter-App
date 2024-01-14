@@ -2,3 +2,6 @@ dependencies:
   flutter:
     sdk: flutter
   random_string: ^X.Y.Z   # Remplacez X.Y.Z par la version la plus récente
+  environment:
+  sdk: '>=2.12.0 <4.0.0'
+
